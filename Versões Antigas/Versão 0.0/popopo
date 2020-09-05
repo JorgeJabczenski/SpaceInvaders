@@ -1,0 +1,7 @@
+/* Configurações iniciais do Ncurses                                 */
+    initscr();              /* inicia a tela                             */
+    cbreak();               /* desabilita o buffer de entrada            */
+    noecho();               /* não mostra os caracteres digitados        */
+    nodelay(stdscr, TRUE);  /* faz com que getch não aguarde a digitação */
+    keypad (stdscr, TRUE);  /* permite a leitura das setas               */
+    curs_set(FALSE);        /* não mostra o cursor na tela               */

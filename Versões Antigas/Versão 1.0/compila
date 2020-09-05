@@ -1,0 +1,3 @@
+clear
+gcc -g -O3 -ansi -Wall main.c  lib_lista.c lib_spcinv.c lib_graficos.c -lm -lncurses
+

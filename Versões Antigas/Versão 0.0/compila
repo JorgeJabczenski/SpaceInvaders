@@ -1,0 +1,2 @@
+gcc -ansi -Wall -c spcinv.c -lncurses
+gcc -ansi -Wall main.c spcinv.o -lncurses -g
