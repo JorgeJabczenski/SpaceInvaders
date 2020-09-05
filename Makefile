@@ -1,5 +1,5 @@
 CC = gcc
-FLAGS = -g -ansi -Wall -Wextra -pedantic
+FLAGS = -g 
 FILES = main.c lib_lista.c lib_spcinv.c lib_telas.c
 LINKS = -lm -lncurses
 
