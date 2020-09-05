@@ -1,4 +1,6 @@
 # SpaceInvaders
+## Lute contra sorvetes sorridentes, bonecos dançarinos, gatinhos bipolares e cobras sem cabeça com sua nave psicodélica enquanto barreiras flamejantes te protegem dos ataques molhados
+
 Jogo feito inteiramente em C com auxílio da biblioteca N-Curses
 
 ### Como rodar
